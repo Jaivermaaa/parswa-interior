@@ -465,7 +465,8 @@ p{ max-width:62ch; }
   // Load Catalog Items Dynamically from CMS Data
   var grid = document.getElementById('catalogGrid');
   if(grid) {
-    fetch('products.json')
+    // FIX APPLIED HERE: Added ?v= to bust the cache
+    fetch('products.json?v=' + new Date().getTime())
       .then(function(res){ return res.json(); })
       .then(function(data){
         // CMS outputs an object with an "items" array, check for both formats just in case
