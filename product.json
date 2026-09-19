@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "PVC Wall Profiles",
+      "description": "Moisture-resistant panelling and trims for interiors that need to hold up.",
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Modular Furniture & Woodwork",
+      "description": "Custom carpentry built to the room's exact dimensions, not stock sizes.",
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "False Ceilings & Lighting",
+      "description": "Layered ceiling design with lighting planned in from the start, not added after.",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Flooring & Laminates",
+      "description": "Wood, stone-look and laminate flooring matched to how the space is used.",
+      "image": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Kitchen & Wardrobe Systems",
+      "description": "Storage-first layouts for kitchens and wardrobes, built around daily use.",
+      "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "title": "Decor & Finishing Touches",
+      "description": "The last-mile details — hardware, trims and finishes — that a space is judged on.",
+      "image": "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
